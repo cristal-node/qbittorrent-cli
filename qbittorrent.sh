@@ -15,7 +15,7 @@ mkdir -p '/root/.local/share/'
 mkdir -p '/root/.config/qBittorrent'
 ln -s -f "your qbittorrent config folder" '/root/.local/share/qBittorrent'
 ln -s -f 'your qbittorrent config file' '/root/.config/qBittorrent/qBittorrent.conf'
-ln -s -f 'the place of proram' './qbmain.py'
+ln -s -f 'the place of program' './qbmain.py'
 # example:
 # ln -s -f '/content/drive/My Drive/.config/qb/qbittorrent' '/root/.local/share/qBittorrent'
 # ln -s -f '/content/drive/My Drive/.config/qb/qbittorrent/qBittorrent.conf' '/root/.config/qBittorrent/qBittorrent.conf'
